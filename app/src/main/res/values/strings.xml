@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Básico Aplicado</string>
+    <string name="title_activity_web_service_sample">WebServiceSampleActivity</string>
+    <string name="action_button">Descargar Imagen</string>
+</resources>
